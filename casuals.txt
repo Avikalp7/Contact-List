@@ -1,0 +1,72 @@
+NEW CASUAL
+ID
+19
+NAME
+Joe Gatto
+MOBILE NUMBER
+8877664433
+EMAIL
+joe@hotmail.com
+DATE ACQ
+11/11/2011
+MEET PLACE
+Staten Island, USA
+CIRCUMSTANCE
+Impractical Jokers Shoot
+USEFUL INFO
+Big nose, looks like a trash bag of mango pulp.
+xx- END OF CASUAL -xx
+NEW CASUAL
+ID
+21
+NAME
+Ilkay Gundogan
+MOBILE NUMBER
+9933974077
+EMAIL
+ilkay@yahoo.co.in
+DATE ACQ
+12/12/2014
+MEET PLACE
+Borussia, Germany
+CIRCUMSTANCE
+Bundesliga, Dortmund vs Eintract FrankFurt.
+USEFUL INFO
+Midfielder. knows his way around the poker table
+xx- END OF CASUAL -xx
+NEW CASUAL
+ID
+0
+NAME
+Joe Gatto
+MOBILE NUMBER
+8877664433
+EMAIL
+joe@hotmail.com
+DATE ACQ
+11/11/2011
+MEET PLACE
+Staten Island, USA
+CIRCUMSTANCE
+Impractical Jokers Shoot
+USEFUL INFO
+Big nose, looks like a trash bag of mango pulp.
+xx- END OF CASUAL -xx
+NEW CASUAL
+ID
+0
+NAME
+Asmir Begovic
+MOBILE NUMBER
+7766443322
+EMAIL
+asmir@yahoo.com
+DATE ACQ
+11/12/2012
+MEET PLACE
+Bosnia & Herzengovnia
+CIRCUMSTANCE
+Trebinje store inaug.
+USEFUL INFO
+GK, Chelsea
+xx- END OF CASUAL -xx
