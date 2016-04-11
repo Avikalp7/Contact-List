@@ -140,6 +140,7 @@ public class MainFrame extends JApplet {
 	 * @throws ParseException 
 	 */
 	public static void main(String[] args) throws ParseException {
+		///*
 		Interactions.reconstruct();
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -150,7 +151,9 @@ public class MainFrame extends JApplet {
 					e.printStackTrace();
 				}
 			}
-		});
+		});//*/
+	//	Interactions.reconstruct();
+	//	Interactions.save();
 	}
 
 	public void init(){
@@ -493,8 +496,8 @@ public class MainFrame extends JApplet {
 				int i = list_4.getSelectedIndex();
 				if(i==-1) return;
 				String name = (String)list_4.getModel().getElementAt(i);
-				i = find_name(4,name);
-				viewCasual(i);
+				cidx = find_name(4,name);
+				viewCasual(cidx);
 				frame.setBounds(100, 100, 535, 462);
 				CL.show(contentPane, "3.4");
 			}
@@ -549,7 +552,7 @@ public class MainFrame extends JApplet {
 			int i = list_1.getSelectedIndex();
 			if(i==-1) return;
 			String name = (String)list_1.getModel().getElementAt(i);
-			i = find_name(1,name);
+			ridx = i = find_name(1,name);
 	//		ViewRelative vr = new ViewRelative(i);
 	//		vr.setVisible(true);
 			viewRelative(i,contentPane,1);
