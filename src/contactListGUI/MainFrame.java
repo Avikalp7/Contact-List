@@ -1,3 +1,15 @@
+/*
+ * Author : Avikalp Srivastava, 14CS10008, IIT KGP
+ * Contact List - A JAVA based software maintaining user contacts and their information
+ * Supports 4 different categories of contacts, adding new contacts, searching contacts and deletion of contacts
+ * Supports applet generation
+ * Currently does not use serialization / databases / security features
+ * TODO List :
+ * 		1. Add documentation
+ * 		2. Use passsword for accessing data
+ * 		3. Connect to data-base system
+ */
+
 package contactListGUI;
 
 import java.awt.EventQueue;
