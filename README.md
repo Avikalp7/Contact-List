@@ -1,2 +1,2 @@
 # contact-list
-Contact list application made for Software Engineering class.
+Contact list application made for Software Engineering class
